@@ -1,0 +1,24 @@
+{
+  "name": "Sharek it",
+  "displayName": "Sharek it",
+  "expo": {
+    "name": "Sharek it",
+    "icon": "./assets/logo.png",
+    "version": "1.0.0",
+    "slug": "sharek-it",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.sharek",
+      "buildNumber": "1.0.0",
+      "requireFullScreen": true
+    },
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "softwareKeyboardLayoutMode": "pan",
+      "package": "com.yourcompany.sharek",
+      "versionCode": 1
+    }
+  }
+}
